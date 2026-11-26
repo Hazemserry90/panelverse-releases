@@ -14,7 +14,8 @@ Please allow reasonable time for a fix before any public disclosure.
 | Version | Supported |
 |---|---|
 | `v1.9.15` (Latest Android) | ✅ |
-| Older Android releases | ❌ |
+| `ios-v0.2.5` (Latest iOS) | ✅ |
+| Older releases | ❌ |
 
 ## Verifying downloads
 
